@@ -1,9 +1,12 @@
+#jump Noad
 DOMAIN, zlsdk.1rtb.net, reject
 DOMAIN, sf3-fe-tos.pglstatp-toutiao.com, reject
 DOMAIN, smartop-sdkapi.jiguang.cn, reject
 DOMAIN, thirdwx.qlogo.cn, reject
 DOMAIN, open.youzanyun.com, reject
 DOMAIN, image.uczzd.cn, reject
+
+#常用app分流组
 DOMAIN, gateway.discord.gg, Auto
 DOMAIN, jmcomic.me, Auto
 DOMAIN, liangyuandian.xyz, Auto
