@@ -1,3 +1,8 @@
+#多多视频
+DOMAIN, settings.aoiad.com, reject
+DOMAIN, raddus.bayescom.com, reject
+DOMAIN, adashxgc.ut.taobao.com, reject 
+
 #jump Noad
 DOMAIN, zlsdk.1rtb.net, reject
 DOMAIN, sf3-fe-tos.pglstatp-toutiao.com, reject
